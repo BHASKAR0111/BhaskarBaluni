@@ -29,6 +29,15 @@ I’m Bhaskar Baluni, an MCA graduate passionate about solving real-world proble
 
 ---
 
+## Education
+
+- **Master of Computer Applications (MCA)** – Graphic Era Hill University Dehradun, India, 2025  
+- **Bachelor of Computer Applications (BCA)** – Hemvati Nandan Bahugana Garhwal University, 2021  
+
+### Certifications
+- Google Data Analytics Certificate  
+- Tata Group Data Visualization & Analytics
+
 ## Achievements
 
 - **Silver Medal – Open Cup Powerlifting Championship, XPC India (2018)**
@@ -51,4 +60,4 @@ I’m Bhaskar Baluni, an MCA graduate passionate about solving real-world proble
 - **LinkedIn:** [https://www.linkedin.com/in/bhaskarbaluni](https://www.linkedin.com/in/bhaskarbaluni)
 - **GitHub:** [https://github.com/bhaskar0111](https://github.com/bhaskar0111)
 - **Portfolio:** [https://bhaskarbaluni.dev](https://bhaskarbaluni.dev)
-- **Email:** bhaskar@example.com
+- **Email:** bhaskarbaluni10@gmail.com
