@@ -3,6 +3,7 @@
 ## About Me
 I’m Bhaskar Baluni, an MCA graduate passionate about solving real-world problems using data and technology. I enjoy building solutions that simplify decision-making and provide actionable insights. I’m also skilled in sales and customer relationship management, gained through hands-on retail and automotive industry exposure. My work blends technical expertise, analytical thinking, and practical experience to deliver measurable impact.
 
+[🌐 Visit My Portfolio](https://bhaskar0111.github.io/Bhaskar_Baluni/)
 ---
 
 ## Industrial Exposure
