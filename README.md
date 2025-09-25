@@ -32,7 +32,34 @@ I’m Bhaskar Baluni, an MCA graduate passionate about solving real-world proble
 ## Education
 
 - **Master of Computer Applications (MCA)** – Graphic Era Hill University Dehradun, India, 2025  
-- **Bachelor of Computer Applications (BCA)** – Hemvati Nandan Bahugana Garhwal University, 2021  
+- **Bachelor of Computer Applications (BCA)** – Hemvati Nandan Bahugana Garhwal University, 2021
+
+## Technical Skills
+
+- MS Word  
+- MS PowerPoint  
+- MS Excel  
+- Google Sheets  
+- Canva  
+- Reporting & Documentation  
+- Presentation Design & Visualization
+
+## Personal Skills
+
+- Communication  
+- Self-Motivation  
+- Decision Making  
+- Teamwork  
+- Order Taking  
+- Problem Solving  
+- Conflict Management
+
+## Languages
+
+- Hindi – Fluent  
+- English – Conversational
+
+
 
 ### Certifications
 - Google Data Analytics Certificate  
@@ -53,6 +80,15 @@ I’m Bhaskar Baluni, an MCA graduate passionate about solving real-world proble
 - **Certificate of Participation – Fitlife India (2018)**
   - Demonstrated dedication and consistency
   - Showed commitment to personal growth and fitness
+
+## Hobbies
+
+- Traveling  
+- Gym / Fitness    
+- Listening to Music  
+- Cricket  
+- Self-Learning  
+- Volunteering / Community Service
 
 ---
 
