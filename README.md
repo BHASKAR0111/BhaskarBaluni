@@ -7,33 +7,25 @@ I’m Bhaskar Baluni, an MCA graduate passionate about solving real-world proble
 
 ## Industrial Exposure
 
-### Car Sales Exposure – XYZ Car Dealership
+### Car Sales Exposure – Shubh Kia Dealership
 - Managed daily showroom operations and all customer transactions
 - Guided clients through product features, pricing, and financing options
 - Developed strategies to boost sales and achieve monthly targets
 - Gained hands-on experience in customer relationship management and team coordination
 
-### Jewellery Sales Exposure – XYZ Jewellery Store
+### Jewellery Sales Exposure – Shubham Jewllers
 - Managed daily store operations, billing, and inventory
 - Supervised and trained staff to improve sales performance
 - Implemented merchandising strategies to increase product visibility and sales
 - Learned customer handling, upselling techniques, and dispute resolution
 
-### Retail / General Sales Exposure – XYZ Retail Store
+### Retail / General Sales Exposure – Duck Store
 - Oversaw store operations and managed all transactions
 - Assisted in merchandising, promotions, and sales strategy
 - Developed skills in team management, customer service, and problem-solving
 - Gained practical exposure to inventory control, cash handling, and revenue tracking
 
 ---
-
-## Work Experience
-
-- **Data Analytics Intern – MedTourEasy**
-  - Developed dashboards and reports to optimize business processes
-  - Performed data cleaning, analysis, and visualization using Python and Excel
-  - Applied problem-solving skills to provide actionable insights for management
-  - Collaborated with team members to improve data workflow efficiency
 
 ---
 
