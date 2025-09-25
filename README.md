@@ -95,5 +95,4 @@ I’m Bhaskar Baluni, an MCA graduate passionate about solving real-world proble
 ## Contact
 - **LinkedIn:** [https://www.linkedin.com/in/bhaskarbaluni](https://www.linkedin.com/in/bhaskarbaluni)
 - **GitHub:** [https://github.com/bhaskar0111](https://github.com/bhaskar0111)
-- **Portfolio:** [https://bhaskarbaluni.dev](https://bhaskarbaluni.dev)
 - **Email:** bhaskarbaluni10@gmail.com
